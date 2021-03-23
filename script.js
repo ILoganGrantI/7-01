@@ -11,5 +11,5 @@ function display () {
 
   if (ran === user) {
     alert('correct')
-}
+  }
 }
